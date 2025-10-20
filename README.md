@@ -19,7 +19,7 @@ Bu proje, kullanıcının hediye almak istediği kişinin özelliklerini (cinsiy
 
 ## Kurulum ve Çalıştırma
 
-#Depoyu klonla ve klasöre gir
+**Depoyu klonla ve klasöre gir**
 
 ```bash
 git clone https://github.com/ebrargulsen-code/hediye_oneri.git
