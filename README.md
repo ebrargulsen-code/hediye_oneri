@@ -17,9 +17,26 @@ Bu proje, kullanıcının hediye almak istediği kişinin özelliklerini (cinsiy
 - Pandas
 - base64 (arka plan görseli için)
 
-## Kurulum
+## Kurulum ve Çalıştırma
+
+# Depoyu klonla ve klasöre gir
+
 ```bash
-git clone https://github.com/kullanici/gift-recommender
-cd gift-recommender
+git clone https://github.com/ebrargulsen-code/hediye_oneri.git
+cd hediye_oneri
+
+#Sanal ortam oluştur ve aktif et(windows)
+python -m venv venv
+venv\Scripts\activate
+
+
+# Gerekli Python paketlerini yükle
 pip install -r requirements.txt
-python app.py
+
+# Eğer requirements.txt yoksa manuel yükleyebilirsin
+pip install streamlit pandas
+
+# Uygulamayı başlat
+streamlit run app.py
+
+
