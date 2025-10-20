@@ -1,7 +1,3 @@
-# Gift Recommender Bot
-
-Bu proje, kullanıcının hediye almak istediği kişinin zevklerini girerek uygun ürün önerisi almasını sağlar.
-
 # 🎁 Hediye Öneri Botu
 
 Bu proje, kullanıcının hediye almak istediği kişinin özelliklerini (cinsiyet, yaş aralığı, kategori, ilgi alanı) girerek ona uygun hediye önerileri sunan **Streamlit web uygulamasıdır**.
